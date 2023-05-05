@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.085d88b7.css",
+    "main.js": "/static/js/main.5479402c.js",
+    "static/media/Marvel-Bold.ttf": "/static/media/Marvel-Bold.a764a8b38a111ea08e9c.ttf",
+    "index.html": "/index.html",
+    "main.085d88b7.css.map": "/static/css/main.085d88b7.css.map",
+    "main.5479402c.js.map": "/static/js/main.5479402c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085d88b7.css",
+    "static/js/main.5479402c.js"
+  ]
+}
